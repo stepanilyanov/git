@@ -1,3 +1,3 @@
 print("Hello world")
-s = input('введите имя : ')
+s = input('Print name : ')
 print("My name is", s)
